@@ -16,6 +16,7 @@ Currently i'm learning a bit about Lua, C#, and doing some interesting things in
 
  <a href="https://discord.com/users/AyameIgor#4479" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://www.github.com/igortfreitas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/633308884936687629)](https://discord.com/users/633308884936687629)
 
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=igortfreitas&count_private=true&theme=dracula)
 
