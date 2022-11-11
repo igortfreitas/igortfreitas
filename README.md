@@ -12,6 +12,12 @@
 
 Currently i'm learning a bit about Lua, C#, and doing some interesting things in a certain Anime Game 
 
+### Site
+
+U can also check my site using NextJS and Tailwind, just click on Faruzan icon :)
+
+<a href="https://ayame.live" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/564x/d6/29/fe/d629fe6dcd67a584ba03ebcef3bd8f90.jpg" height="120"/></a>
+
 ### Contact me
 
  <a href="https://discord.com/users/AyameIgor#4479" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://www.github.com/igortfreitas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
