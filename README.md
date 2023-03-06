@@ -2,15 +2,12 @@
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,html,lua,python,react)](https://skillicons.dev)
 
 ### Tools and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vscode,visualstudio,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,visualstudio,idea,nextjs)](https://skillicons.dev)
 
-### What i'm learning now?
-
-Currently i'm learning a bit about Lua, C#, and doing some interesting things in a certain Anime Game 
 
 ### Site
 
