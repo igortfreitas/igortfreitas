@@ -1,4 +1,4 @@
-### Hi, i'm Igor, my age is 17 years and i live in Brazil👋
+### Hi, i'm Igor, my age is 18 years and i live in Brazil👋
 
 ### Programming Languages
 
