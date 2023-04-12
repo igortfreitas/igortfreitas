@@ -11,9 +11,9 @@
 
 ### Site
 
-U can also check my site using NextJS and Tailwind, just click on Faruzan icon :)
+U can also check my site using NextJS and Tailwind, just click on Kirara icon :)
 
-<a href="https://ayame.live" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/564x/d6/29/fe/d629fe6dcd67a584ba03ebcef3bd8f90.jpg" height="120"/></a>
+<a href="https://ayame.live" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FtVP3QxaAAAMQZr?format=jpg&name=large" height="120"/></a>
 
 ### Contact me
 
