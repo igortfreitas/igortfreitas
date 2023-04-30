@@ -23,6 +23,4 @@ U can also check my site using NextJS and Tailwind, just click on Kirara icon :)
 
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=igortfreitas&count_private=true&theme=dracula)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igortfreitas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
  [![GitHub Streak](https://streak-stats.demolab.com/?user=igortfreitas&theme=buefy-dark)](https://git.io/streak-stats)
