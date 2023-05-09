@@ -2,7 +2,7 @@
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,css,html,lua,python,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,lua,python,react)](https://skillicons.dev)
 
 ### Tools and Frameworks
 
