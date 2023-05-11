@@ -13,7 +13,7 @@
 
 U can also check my site using NextJS and Tailwind, just click on Kirara icon :)
 
-<a href="https://ayame.live" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FtVP3QxaAAAMQZr?format=jpg&name=large" height="120"/></a>
+<a href="https://ayame.one" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FtVP3QxaAAAMQZr?format=jpg&name=large" height="120"/></a>
 
 ### Contact me
 
