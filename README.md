@@ -6,7 +6,7 @@
 
 ### Tools and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,visualstudio,idea,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,visualstudio,idea,nextjs,prisma,planetscale)](https://skillicons.dev)
 
 ### Databases
 
