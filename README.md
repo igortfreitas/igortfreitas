@@ -31,6 +31,6 @@ You can also check my site using NextJS and Tailwind, just click on Kirara icon 
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=igortfreitas&theme=buefy-dark)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/igortfreitas/igortfreitas/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/igortfreitas/igortfreitas/blob/output/github-contribution-grid-snake.svg"/>
 
 ###
