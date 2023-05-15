@@ -8,6 +8,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,visualstudio,idea,nextjs)](https://skillicons.dev)
 
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres)](https://skillicons.dev)
+
 
 ### Site
 
