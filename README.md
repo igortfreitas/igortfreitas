@@ -23,7 +23,6 @@ You can also check my site using NextJS and Tailwind, just click on Kirara icon 
 
 <p align="left"> <a href="https://discord.com/users/ayameigor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/igortfreitas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ayame_igor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### My Email: igor@ayame.one
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/633308884936687629)](https://discord.com/users/633308884936687629)
 
