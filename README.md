@@ -26,8 +26,6 @@ You can also check my site using NextJS and Tailwind, just click on Kirara icon 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/633308884936687629)](https://discord.com/users/633308884936687629)
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=igortfreitas&theme=buefy-dark)](https://git.io/streak-stats)
-
-<img src="https://github.com/igortfreitas/igortfreitas/blob/output/github-contribution-grid-snake.svg"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igortfreitas&theme=buefy-dark)](https://git.io/streak-stats)
 
 ###
