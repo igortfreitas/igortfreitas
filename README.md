@@ -19,10 +19,6 @@ You can also check my site using NextJS and Tailwind, just click on Kirara icon 
 
 <a href="https://ayame.one" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/gensin-impact/images/b/be/Icon_Emoji_Paimon%27s_Paintings_24_Kirara_1.png/revision/latest?cb=20230528042229" height="120"/></a>
 
-### Contact me
-
-<p align="left"> <a href="https://discord.com/users/ayameigor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/igortfreitas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ayame_igor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=igortfreitas&theme=buefy-dark)](https://git.io/streak-stats)
 
 ###
